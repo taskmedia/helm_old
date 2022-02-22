@@ -1,0 +1,32 @@
+apiVersion: v1
+entries:
+  ipsec-vpn-server:
+  - apiVersion: v2
+    appVersion: latest
+    created: "2022-02-22T07:08:36.009318504Z"
+    description: Deploy IPsec VPN server inside K8s with optional sealed-secrets
+    digest: 70cce62076da5dcb7758d08110803bf089168a05c88a66529af5fbcfdbcb0d23
+    home: https://helm.task.media/ipsec-vpn-server
+    icon: https://media.task.media/images/logo.png
+    keywords:
+    - vpn
+    - ipsec
+    - traefik
+    name: ipsec-vpn-server
+    sources:
+    - https://github.com/hwdsl2/docker-ipsec-vpn-server
+    type: application
+    urls:
+    - https://helm.task.media/ipsec-vpn-server/ipsec-vpn-server-1.0.2.tgz
+    version: 1.0.2
+  - apiVersion: v2
+    appVersion: 0.0.0
+    created: "2022-02-22T07:08:36.008694788Z"
+    description: Deploy IPsec VPN server inside K8s with optional sealed-secrets
+    digest: a0bfab133191e9a2de6a279b78fdf5fd56842f1dad4ea820c15811818ba5976f
+    name: ipsec-vpn-server
+    type: application
+    urls:
+    - https://helm.task.media/ipsec-vpn-server/ipsec-vpn-server-1.0.1.tgz
+    version: 1.0.1
+generated: "2022-02-22T07:08:36.007981025Z"
