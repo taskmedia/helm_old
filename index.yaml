@@ -3,9 +3,9 @@ entries:
   ipsec-vpn-server:
   - apiVersion: v2
     appVersion: latest
-    created: "2022-02-22T07:08:36.009318504Z"
+    created: "2022-02-22T17:56:42.765734104Z"
     description: Deploy IPsec VPN server inside K8s with optional sealed-secrets
-    digest: 70cce62076da5dcb7758d08110803bf089168a05c88a66529af5fbcfdbcb0d23
+    digest: 3d9aa119fb33adb92323510ca8175169e775afb1505a25703cdd4a358eeb24ae
     home: https://helm.task.media/ipsec-vpn-server
     icon: https://media.task.media/images/logo.png
     keywords:
@@ -21,7 +21,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 0.0.0
-    created: "2022-02-22T07:08:36.008694788Z"
+    created: "2022-02-22T17:56:42.765231002Z"
     description: Deploy IPsec VPN server inside K8s with optional sealed-secrets
     digest: a0bfab133191e9a2de6a279b78fdf5fd56842f1dad4ea820c15811818ba5976f
     name: ipsec-vpn-server
@@ -29,4 +29,4 @@ entries:
     urls:
     - https://helm.task.media/ipsec-vpn-server/ipsec-vpn-server-1.0.1.tgz
     version: 1.0.1
-generated: "2022-02-22T07:08:36.007981025Z"
+generated: "2022-02-22T17:56:42.764576399Z"
